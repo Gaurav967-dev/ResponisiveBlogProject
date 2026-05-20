@@ -39,18 +39,6 @@ ResponsiveBlogProject/
 
 ---
 
-# Screenshots
-
-Add your project screenshots here.
-
-Example:
-
-```markdown
-![Home Page](./images/screenshot.png)
-```
-
----
-
 # Installation & Setup
 
 ## Clone Repository
@@ -91,18 +79,6 @@ The website is optimized for:
 - Add Blog Search Functionality
 - Add Dynamic Blog Content
 - Add Comment System
-
----
-
-# Live Demo
-
-Add deployed project link here if available.
-
-Example:
-
-```text
-https://your-live-demo-link.com
-```
 
 ---
 
