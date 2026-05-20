@@ -84,7 +84,7 @@ The website is optimized for:
 
 # GitHub Repository
 
-:contentReference[oaicite:0]{index=0}
+[ResponisiveBlogProject](https://github.com/Gaurav967-dev/ResponisiveBlogProject)
 
 ---
 
@@ -92,6 +92,6 @@ The website is optimized for:
 
 Gaurav
 
-GitHub: :contentReference[oaicite:1]{index=1}
+GitHub: [Gaurav967-dev](https://github.com/Gaurav967-dev)
 
 ---
